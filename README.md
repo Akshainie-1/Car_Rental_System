@@ -1,4 +1,4 @@
-# 🚗 Car Rental System (Java Console Application)
+# 🚗 Car Rental System 
 
 Explore the world of car rentals with the Car Rental System, a Java-based console application designed to simulate real-world car rental operations while strengthening core Java concepts. 🌟
 
